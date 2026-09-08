@@ -9,7 +9,7 @@ BE Computer Engineering Student | Aspiring Software Developer
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/bhimashankar-athani-39930a290?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/bhima2502F">
