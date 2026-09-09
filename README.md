@@ -5,11 +5,15 @@ BE Computer Engineering Student | Aspiring Software Developer
 </h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhima2502F&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
 📍 Pune, India
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhimashankar-athani-39930a290?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/bhimashankar-athani-39930a290">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/bhima2502F">
